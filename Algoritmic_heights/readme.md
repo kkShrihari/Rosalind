@@ -40,40 +40,41 @@ No other AI-generated logic or content appears in the solution scripts.
 
 The uploaded solutions include problems involving:
 
-FIBO — Fibonacci Numbers
-BINS — Binary Search
-DEG — Degree Array
-INS — Insertion Sort
-DDEG — Double-Degree Array
-MAJ — Majority Element
-MER — Merge Two Sorted Arrays
-2SUM — 2SUM
-BFS — Breadth-First Search
-CC — Connected Components
-HEA — Building a Heap
-MS — Merge Sort
-PAR — 2-Way Partition
-3SUM — 3SUM
-BIP — Testing Bipartiteness
-DAG — Testing Acyclicity
-DIJ — Dijkstra’s Algorithm
-HS — Heap Sort
-INV — Counting Inversions
-PAR3 — 3-Way Partition
-SQ — Square in a Graph
-BF — Bellman-Ford Algorithm
-CTE — Shortest Cycle Through a Given Edge
-MED — Median
-PS — Partial Sort
-TS — Topological Sorting
-HDAG — Hamiltonian Path in DAG
-NWC — Negative Weight Cycle
-QS — Quick Sort
-SCC — Strongly Connected Components
-2SAT — 2-Satisfiability
-GS — General Sink
-SC — Semi-Connected Graph
-SDAG — Shortest Paths in DAG
+- **FIBO** — Fibonacci Numbers
+- **BINS** — Binary Search
+- **DEG** — Degree Array
+- **INS** — Insertion Sort
+- **DDEG** — Double-Degree Array
+- **MAJ** — Majority Element
+- **MER** — Merge Two Sorted Arrays
+- **2SUM** — 2SUM
+- **BFS** — Breadth-First Search
+- **CC** — Connected Components
+- **HEA** — Building a Heap
+- **MS** — Merge Sort
+- **PAR** — 2-Way Partition
+- **3SUM** — 3SUM
+- **BIP** — Testing Bipartiteness
+- **DAG** — Testing Acyclicity
+- **DIJ** — Dijkstra's Algorithm
+- **HS** — Heap Sort
+- **INV** — Counting Inversions
+- **PAR3** — 3-Way Partition
+- **SQ** — Square in a Graph
+- **BF** — Bellman-Ford Algorithm
+- **CTE** — Shortest Cycle Through a Given Edge
+- **MED** — Median
+- **PS** — Partial Sort
+- **TS** — Topological Sorting
+- **HDAG** — Hamiltonian Path in DAG
+- **NWC** — Negative Weight Cycle
+- **QS** — Quick Sort
+- **SCC** — Strongly Connected Components
+- **2SAT** — 2-Satisfiability
+- **GS** — General Sink
+- **SC** — Semi-Connected Graph
+- **SDAG** — Shortest Paths in DAG
+
 
 Each script corresponds exactly to one Rosalind problem.
 
