@@ -24,11 +24,6 @@ def process_list(Number_list):
         else:
             modified_list.append(x)
 
-    print(f"The input list is:{Number_list}")
-    print(f"The resulting list is:{modified_list}")
     result = modified_list.sort()
-    print(f"The sorted list is:", modified_list)
-    return print(f"The Largest number after list modification is:{modified_list[-1]}")
+    return modified_list[-1]
 
-Number_list = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
-process_list(Number_list)
