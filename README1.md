@@ -68,7 +68,7 @@ All scripts in this repository:
 
 ## 📬 Contact
 
-If you have comments, suggestions, or want to collaborate or learn more, feel free to reach out.
+If you have comments, suggestions, or want to collaborate or learn more, feel free to reach out at kkshrihari@gmail.com.
 
 ---
 
