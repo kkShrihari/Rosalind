@@ -3,7 +3,7 @@
 This repository contains my **handwritten Python solutions** for a variety of challenges from the **Rosalind Bioinformatics Stronghold** series.  
 You can find the original problem list here:
 
-🔗 https://rosalind.info/problems/list-view/?location=armory
+🔗 https://rosalind.info/problems/list-view/?location=bioinformatics-armory
 
 ---
 
